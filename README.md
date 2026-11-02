@@ -1,17 +1,35 @@
-# Olá, me chamo João Gabriel.
 
-Estudante de Engenharia de Software na Universidade do Distrito Federal (UDF), no 2º semestre, em busca de estágio na área de TI.
+# Olá! Eu sou João Gabriel 
 
-## O que estou estudando
-- Desenvolvimento web: HTML, CSS e JavaScript
+ Estudante de Engenharia de Software na UDF.
+
+ Buscando desenvolver minhas habilidades na área de tecnologia e programação.
+
+##  Sobre mim
+
+- Estudante do 2º semestre de Engenharia de Software.
+- Interessado em desenvolvimento de software.
+- Atualmente estudando desenvolvimento web e programação.
+- Buscando oportunidades de estágio em TI.
+
+##  Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Python
 - Git e GitHub
 - Bootstrap
 
-## Projetos
-- [Calculadora de Média](https://github.com/jgabrielipx/desafio-colaborativo-git): projeto em grupo para praticar Git e GitHub, com branches, pull requests e resolução de conflito de merge.
+##  Projetos
 
-## Contato
-- LinkedIn: www.linkedin.com/in/joão-gabriel-fernandes-nóbrega-6a3601283
-- Celular: 61981215010
-- Brasília, DF
+- [Calculadora de Média](https://github.com/jgabrielipx/desafio-colaborativo-git)
+- [Algoritmo de Kaprekar](https://github.com/jgabrielipx/kaprekar-algoritmo)
+
+##  Contato
+
+- [LinkedIn](https://www.linkedin.com/in/joão-gabriel-fernandes-nóbrega-6a3601283/)
+- Brasília - DF
+- WhatsApp - 61981215010 
+
   
