@@ -25,7 +25,7 @@
 
 - [Calculadora de Média](https://github.com/jgabrielipx/desafio-colaborativo-git)
 - [Algoritmo de Kaprekar](https://github.com/jgabrielipx/kaprekar-algoritmo)
-
+- [Desafio Colaborativo](https://github.com/jgabrielipx/desafio-colaborativo-git)
 ##  Contato
 
 - [LinkedIn](https://www.linkedin.com/in/joão-gabriel-fernandes-nóbrega-6a3601283/)
