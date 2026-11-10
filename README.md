@@ -31,5 +31,6 @@
 - [LinkedIn](https://www.linkedin.com/in/joão-gabriel-fernandes-nóbrega-6a3601283/)
 - Brasília - DF
 - WhatsApp - 61981215010 
+- Gmail    - bieljoaosoares@gmail.com
 
   
