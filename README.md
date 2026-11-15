@@ -41,6 +41,7 @@ Estudo **Engenharia de Software na UDF** (2º semestre) e estou construindo minh
 | **Controle de Gastos** | Aplicação web para controle de despesas pessoais | JavaScript | [Código](https://github.com/jgabrielipx/controle-de-gastos) |
 | **Algoritmo de Kaprekar** | Implementação da Constante de Kaprekar (6174) | Python | [Código](https://github.com/jgabrielipx/kaprekar-algoritmo) |
 | **Desafio Colaborativo Git** | Calculadora de média feita em grupo (3 contribuidores, 9 branches, conflito resolvido) | HTML, CSS, JS | [Código](https://github.com/jgabrielipx/desafio-colaborativo-git) |
+| **Site Biográfico** | Site biográfico pessoal (com informações e contatos) | CSS, HTML, JavaScript | [Código](https://github.com/jgabrielipx/site-biografico) |
 <!-- Descomente quando o repositório existir e troque NOME-DO-REPO:
 | **Site biográfico** | Portfólio pessoal com modo escuro (padrão) e claro | HTML, CSS, JS | [Código](https://github.com/jgabrielipx/NOME-DO-REPO) · [Demo](https://jgabrielipx.github.io/NOME-DO-REPO) |
 | **Datas Comemorativas de Outubro** | Site sobre o Dia Mundial dos Animais e da Natureza, com 7 componentes | HTML, Bootstrap | [Código](https://github.com/jgabrielipx/NOME-DO-REPO) · [Demo](https://jgabrielipx.github.io/NOME-DO-REPO) |
